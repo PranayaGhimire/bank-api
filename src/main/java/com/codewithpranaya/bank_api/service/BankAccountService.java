@@ -1,12 +1,12 @@
-package com.codewithpranaya.service;
+package com.codewithpranaya.bank_api.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.codewithpranaya.entity.BankAccount;
-import com.codewithpranaya.repository.BankAccountRepository;
+import com.codewithpranaya.bank_api.entity.BankAccount;
+import com.codewithpranaya.bank_api.repository.BankAccountRepository;
 
 @Service
 public class BankAccountService {

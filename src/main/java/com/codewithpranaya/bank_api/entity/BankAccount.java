@@ -1,4 +1,4 @@
-package com.codewithpranaya.entity;
+package com.codewithpranaya.bank_api.entity;
 
 import jakarta.persistence.*;
 
